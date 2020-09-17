@@ -1,0 +1,5 @@
+# UVa-Solutions
+
+UVa Online Judge is an online automated judge for programming problems hosted by University of Valladolid. Its problem archive has over 4300 problems and user registration is open to everyone. There are currently over 100000 registered users.
+
+Initially, I want to point out a situation that I am not a pro-programmer! I'm adding these solutions for everyone who wants to be benefited, including me! These are my solutions for problems from UVa. I'll try to add more and solutions gradually. Also, I kept it open for all. So, you can obviously commit or fork it out. Sometimes, as much I have experienced, we all need help to find solution of a particular problem or we want to check other avialable solutions to find the most efficient one. I am not saying that these are the most efficient solutions, but I hope these solutions will help you out in some way. Also, I'll be honored if you suggest another algorithm to solve a particular problem. So, each of your commit will help other programmers. Happy coding!
